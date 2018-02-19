@@ -2,7 +2,7 @@
 Returns the type of device for which the code is being compiled
 
 Example: 
-
+```c++
 #include <Arduino.h>
 #include <DeviceDetector.h>
 
@@ -17,3 +17,4 @@ void setup() {
 void loop() {
     
 }
+```
