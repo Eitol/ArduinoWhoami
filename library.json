@@ -1,8 +1,8 @@
 {
   "name": "ArduinoWhoami",
-  "keywords": "device,id,whoami,boad,name",
+  "keywords": "device, id, whoami, boad, name",
   "license": "MIT", 
-  "description": "Returns the type of device (board) for which the code is being compiled",
+  "description": "Returns the type of device -board- for which the code is being compiled",
   "repository":
   {
     "type": "git",
