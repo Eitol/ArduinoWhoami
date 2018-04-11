@@ -1,0 +1,22 @@
+{
+  "name": "ArduinoWhoami",
+  "keywords": "device,id,whoami,boad,name",
+  "license": "MIT", 
+  "description": "Returns the type of device / board for which the code is being compiled",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/Eitol/ArduinoWhoami.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Hector Oliveros",
+      "maintainer": true
+    }
+  ],
+  "version": "1.0",
+  "frameworks": "arduino",
+  "platforms": "*"  
+} 
+
